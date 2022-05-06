@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:ALibA0/ALibA0.github.io.git
 	branch = main
+[submodule "ALibA0.github.io"]
+	path = ALibA0.github.io
+	url = git@github.com:ALibA0/ALibA0.github.io.git
+	branch = main
